@@ -10,7 +10,7 @@
 		data() {
 			return {
 				videoContext:null,
-				videosrc:'https://mp4.vjshi.com/2017-06-17/ed1d63669bea39f5ef078c4e194291d6.mp4'
+				videosrc:'http://tbm-auth.alicdn.com/e99361edd833010b/GHtMSWcmEesL8KSLPqY/Jn6392sS6JSP7U7CukL_253205498109_hd_hq.mp4?auth_key=1584643579-0-0-49dc665957c68f711434fd5fc8b2e71d'
 			}
 		},
 		onLoad() {
