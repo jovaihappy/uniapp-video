@@ -1,0 +1,1 @@
+<view class="content"><view data-event-opts="{{[['tap',[['playVideo',['$event']]]]]}}" bindtap="__e">全屏播放(可修改为电商商品视频点击)</view><video id="myvideo" src="{{videosrc}}" data-event-opts="{{[['fullscreenchange',[['videoControl',['$event']]]]]}}" bindfullscreenchange="__e"></video></view>
